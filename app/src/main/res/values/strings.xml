@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layouts</string>
+
+    <string name="constraintLayout">ConstraintLayout</string>
+    <string name="linearLayoutH">LinearLayout H</string>
+    <string name="linearLayoutV">LinearLayout V</string>
+    <string name="frameLayout">FrameLayout</string>
+    <string name="tableLayout">TableLayout</string>
+</resources>
